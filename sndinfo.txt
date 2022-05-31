@@ -1,0 +1,92 @@
+/*
+*
+*	Guncaster Durrgon
+*
+*/
+
+player/guncaster/taunt1		"sounds/jay_skins/guncaster/taunts/guncaster_taunt1.ogg"
+player/guncaster/taunt2		"sounds/jay_skins/guncaster/taunts/guncaster_taunt2.ogg"
+player/guncaster/taunt3		"sounds/jay_skins/guncaster/taunts/guncaster_taunt3.ogg"
+player/guncaster/taunt4		"sounds/jay_skins/guncaster/taunts/guncaster_taunt4.ogg"
+player/guncaster/taunt5		"sounds/jay_skins/guncaster/taunts/guncaster_taunt5.ogg"
+player/guncaster/taunt6		"sounds/jay_skins/guncaster/taunts/guncaster_taunt6.ogg"
+player/guncaster/taunt7		"sounds/jay_skins/guncaster/taunts/guncaster_taunt7.ogg"
+player/guncaster/taunt8		"sounds/jay_skins/guncaster/taunts/guncaster_taunt8.ogg"
+player/guncaster/taunt9		"sounds/jay_skins/guncaster/taunts/guncaster_taunt9.ogg"
+player/guncaster/taunt10	"sounds/jay_skins/guncaster/taunts/guncaster_taunt10.ogg"
+player/guncaster/taunt11	"sounds/jay_skins/guncaster/taunts/guncaster_taunt11.ogg"
+player/guncaster/taunt12	"sounds/jay_skins/guncaster/taunts/guncaster_taunt12.ogg"
+player/guncaster/taunt13	"sounds/jay_skins/guncaster/taunts/guncaster_taunt13.ogg"
+player/guncaster/taunt14	"sounds/jay_skins/guncaster/taunts/guncaster_taunt14.ogg"
+player/guncaster/taunt15	"sounds/jay_skins/guncaster/taunts/guncaster_taunt15.ogg"
+player/guncaster/taunt16	"sounds/jay_skins/guncaster/taunts/guncaster_taunt16.ogg"
+player/guncaster/taunt17	"sounds/jay_skins/guncaster/taunts/guncaster_taunt17.ogg"
+player/guncaster/taunt18	"sounds/jay_skins/guncaster/taunts/guncaster_taunt18.ogg"
+player/guncaster/taunt19	"sounds/jay_skins/guncaster/taunts/guncaster_taunt19.ogg"
+player/guncaster/taunt20	"sounds/jay_skins/guncaster/taunts/guncaster_taunt20.ogg"
+player/guncaster/taunt21	"sounds/jay_skins/guncaster/taunts/guncaster_taunt21.ogg"
+player/guncaster/taunt22	"sounds/jay_skins/guncaster/taunts/guncaster_taunt22.ogg"
+player/guncaster/taunt23	"sounds/jay_skins/guncaster/taunts/guncaster_taunt23.ogg"
+player/guncaster/taunt24	"sounds/jay_skins/guncaster/taunts/guncaster_taunt24.ogg"
+player/guncaster/taunt25	"sounds/jay_skins/guncaster/taunts/guncaster_taunt25.ogg"
+player/guncaster/taunt26	"sounds/jay_skins/guncaster/taunts/guncaster_taunt26.ogg"
+player/guncaster/taunt27	"sounds/jay_skins/guncaster/taunts/guncaster_taunt27.ogg"
+player/guncaster/taunt28	"sounds/jay_skins/guncaster/taunts/guncaster_taunt28.ogg"
+player/guncaster/taunt29	"sounds/jay_skins/guncaster/taunts/guncaster_taunt29.ogg"
+player/guncaster/taunt30	"sounds/jay_skins/guncaster/taunts/guncaster_taunt30.ogg"
+player/guncaster/taunt31	"sounds/jay_skins/guncaster/taunts/guncaster_taunt31.ogg"
+player/guncaster/taunt32	"sounds/jay_skins/guncaster/taunts/guncaster_taunt32.ogg"
+player/guncaster/taunt33	"sounds/jay_skins/guncaster/taunts/guncaster_taunt33.ogg"
+player/guncaster/taunt34	"sounds/jay_skins/guncaster/taunts/guncaster_taunt34.ogg"
+player/guncaster/taunt35	"sounds/jay_skins/guncaster/taunts/guncaster_taunt35.ogg"
+player/guncaster/taunt36	"sounds/jay_skins/guncaster/taunts/guncaster_taunt36.ogg"
+player/guncaster/taunt37	"sounds/jay_skins/guncaster/taunts/guncaster_taunt37.ogg"
+$random player/guncaster/taunt
+{
+	player/guncaster/taunt1 player/guncaster/taunt2 player/guncaster/taunt3 player/guncaster/taunt4 player/guncaster/taunt5
+	player/guncaster/taunt6 player/guncaster/taunt7 player/guncaster/taunt8 player/guncaster/taunt9 player/guncaster/taunt10
+	player/guncaster/taunt11 player/guncaster/taunt12 player/guncaster/taunt13 player/guncaster/taunt14 player/guncaster/taunt15
+	player/guncaster/taunt16 player/guncaster/taunt17 player/guncaster/taunt18 player/guncaster/taunt19 player/guncaster/taunt20
+	player/guncaster/taunt21 player/guncaster/taunt22 player/guncaster/taunt23 player/guncaster/taunt24 player/guncaster/taunt25
+	player/guncaster/taunt26 player/guncaster/taunt27 player/guncaster/taunt28 player/guncaster/taunt29 player/guncaster/taunt30
+	player/guncaster/taunt31 player/guncaster/taunt32 player/guncaster/taunt33 player/guncaster/taunt34 player/guncaster/taunt35
+	player/guncaster/taunt36 player/guncaster/taunt37
+}
+
+player/guncaster/xdeath	"sounds/jay_skins/guncaster/guncaster_xdeath.ogg"
+
+player/guncaster/grunt1	"sounds/jay_skins/guncaster/guncaster_grunt1.ogg"
+player/guncaster/grunt2	"sounds/jay_skins/guncaster/guncaster_grunt2.ogg"
+player/guncaster/grunt3	"sounds/jay_skins/guncaster/guncaster_grunt3.ogg"
+player/guncaster/grunt4	"sounds/jay_skins/guncaster/guncaster_grunt4.ogg"
+$random player/guncaster/grunt
+{
+	player/guncaster/grunt1 player/guncaster/grunt2 player/guncaster/grunt3 player/guncaster/grunt4
+}
+
+player/guncaster/land	"sounds/jay_skins/guncaster/guncaster_land.ogg"
+
+player/guncaster/meds1	"sounds/jay_skins/guncaster/guncaster_meds1.ogg"
+player/guncaster/meds2	"sounds/jay_skins/guncaster/guncaster_meds2.ogg"
+player/guncaster/meds3	"sounds/jay_skins/guncaster/guncaster_meds3.ogg"
+player/guncaster/meds4	"sounds/jay_skins/guncaster/guncaster_meds4.ogg"
+player/guncaster/meds5	"sounds/jay_skins/guncaster/guncaster_meds5.ogg"
+$random player/guncaster/meds
+{
+	player/guncaster/meds1 player/guncaster/meds2 player/guncaster/meds3 player/guncaster/meds4 player/guncaster/meds5
+}
+
+player/guncaster/death1	"sounds/jay_skins/guncaster/guncaster_death1.ogg"
+player/guncaster/death2	"sounds/jay_skins/guncaster/guncaster_death2.ogg"
+$random player/guncaster/death
+{
+	player/guncaster/death1 player/guncaster/death2
+}
+
+player/guncaster/pain1	"sounds/jay_skins/guncaster/guncaster_pain1.ogg"
+player/guncaster/pain2	"sounds/jay_skins/guncaster/guncaster_pain2.ogg"
+player/guncaster/pain3	"sounds/jay_skins/guncaster/guncaster_pain3.ogg"
+$random player/guncaster/pain
+{
+	player/guncaster/pain1 player/guncaster/pain2 player/guncaster/pain3
+}
