@@ -1,2 +1,11 @@
-# Teds-HDest-Player-Skins
- A collection of skins made by me or my friends.
+# Ted's Dragonborn Player Skins
+ A collection of player skins made for 'Hideous Destructor'. 
+ 
+ Currently includes:
+ 
+ - 4 Cygnis player skins (Base, Asbestosuit, Powersuit, Draughsuit)
+ 
+ Planned Skins:
+ 
+ - Gardevoir
+ - Goblin.
